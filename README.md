@@ -1,6 +1,7 @@
 # DMSE_status.sh
 
 Bash script to collect system status information from a UniFi Dream Machine and send a formatted status message to a Telegram channel using a bot.
+Tested on Dream Machine Special Edition.
 
 ## Features
 
