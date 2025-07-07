@@ -73,10 +73,17 @@ Data Partition..... 1G/4G - 20%
 - The script is designed for UniFi Dream Machine but can be adapted for other systems.
 - For MarkdownV2 formatting, only escape the necessary characters as per [Telegram documentation](https://core.telegram.org/bots/api#markdownv2-style).
 
+FileRotation## Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to [open an issue](https://github.com/CtrlAltJon/UnifiDreamMachine/issues) or submit a pull request.
+
+
 ## License
 
-MIT License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Authors
+
+## Author
 
 CtrlAltJon
